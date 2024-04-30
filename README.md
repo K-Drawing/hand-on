@@ -1,3 +1,5 @@
 # hand-on
 ハンズオン用
-practice!
+practice
+# memo
+ウィシャデル、、、
